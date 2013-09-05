@@ -16,13 +16,13 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'rspec'
 
-  gem.authors = ["Brandon Keepers", "Brian Ryckbost"]
-  gem.description = %q{A Ruby API for interfacing with Campfire, the 37Signals chat application.}
-  gem.email = ['brandon@opensoul.org', 'bryckbost@gmail.com']
+  gem.authors = ["Shireesh Jayashetty"]
+  gem.description = %q{Dependancy upgraded version of tinder gem - I had to push this fork since collectiveidea is not! However, these changes are already merged into collectiveidea's github repo.}
+  gem.email = ['shireeshj@gmail.com']
   gem.extra_rdoc_files = ['README.markdown']
   gem.files = `git ls-files`.split("\n")
   gem.homepage = 'http://github.com/collectiveidea/tinder'
-  gem.name = 'tinder'
+  gem.name = 'sj-tinder'
   gem.require_paths = ['lib']
   gem.required_rubygems_version = Gem::Requirement.new('>= 1.3.6')
   gem.summary = %q{Ruby wrapper for the Campfire API}
