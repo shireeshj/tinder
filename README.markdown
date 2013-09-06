@@ -27,7 +27,7 @@ See the RDoc for more details.
 
 ## Installation
 
-    gem install tinder
+    gem install sj-tinder
 
 ## Continuous Integration
 
