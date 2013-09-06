@@ -1,7 +1,16 @@
 # Note on this fork
 
-### This is a dependancy upgraded version of collectiveidea/tinder gem. Since folks at collectiveidea are taking their time to release the gem to rubygems, I am releasing it with an alternative name:  [sj-tinder 1.9.3 on rubygems.org](https://rubygems.org/gems/sj-tinder)
+ This is a dependancy upgraded version of collectiveidea/tinder gem. Since folks at collectiveidea are taking their time to release the gem to rubygems, I am releasing it with an alternative name:  [sj-tinder 1.9.3 on rubygems.org][1]
 
+## UPDATE:
+
+Finally, the [official tinder-1.9.3][2] has been released by collectiveidea! 
+If you are using [sj-tinder 1.9.3][1], now is the time to swap it with the [official gem][2].
+
+[1]: https://rubygems.org/gems/sj-tinder
+[2]: https://rubygems.org/gems/tinder
+
+ ----   
 
 # Tinder - get the Campfire started
 
